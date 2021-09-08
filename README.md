@@ -13,7 +13,7 @@
 
 ### 透明化插件
   
-- [TransX64Dbg](https://github.com/levisre/TransX64Dbg)
+- [TransX64Dbg](https://github-releases.githubusercontent.com/59736794/e9bab18e-2509-11e6-9df3-61fc1764571b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210908%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210908T084720Z&X-Amz-Expires=300&X-Amz-Signature=7f8347523398c9db05c1337ca9fa3158ca26ae3e8b6db9d14a54ef59aee2532c&X-Amz-SignedHeaders=host&actor_id=30585232&key_id=0&repo_id=59736794&response-content-disposition=attachment%3B%20filename%3DTransX64Dbg_v1.7z&response-content-type=application%2Foctet-stream)
 - 执行命令 __``translv 90``__
   
 ![image](https://github.com/XLjiangA/x64dbg-colors-ollydbg/blob/main/20210907230112.png)
