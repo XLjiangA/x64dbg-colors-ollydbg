@@ -14,6 +14,6 @@
 ### 透明化插件
   
 - [TransX64Dbg](https://github.com/levisre/TransX64Dbg)
-- 执行命令 __ ``translv 90``__
+- 执行命令 __``translv 90``__
   
 ![image](https://github.com/XLjiangA/x64dbg-colors-ollydbg/blob/main/20210907230112.png)
