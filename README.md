@@ -1,7 +1,6 @@
 # x64dbg-colors-ollydbg
 - ollydbg-colors
 ## 如何使用？
-  
 - 下载 __ollydbg.ini__ 到本地.
   
 ### 导入配置
